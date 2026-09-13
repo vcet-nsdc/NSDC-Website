@@ -234,7 +234,7 @@ export function Footer() {
                 <span className="team-bullet">&bull;</span>
                 <span className="team-member-name velvet-red-shimmer-text">Pratham Mewada</span>
                 <span className="team-bullet">&bull;</span>
-                <span className="team-member-name velvet-red-shimmer-text">Trushna Wankhede</span>
+                <span className="team-member-name velvet-red-shimmer-text">Trushna Wankhade</span>
               </div>
             </div>
           </div>
